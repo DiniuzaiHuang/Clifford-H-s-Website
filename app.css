@@ -22,10 +22,6 @@ nav{
     padding: 30px 100px;
 }
 
-/* i[class*=logo]::before{
-    max-height: 60px;
-    background:transparent;
- } */
 
 .logo{
     max-height: 60px;
